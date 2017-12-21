@@ -1,0 +1,13 @@
+client_id: "Ws4Za7kSxIdQdpxcZnL2WC9L8NVl3UBT"
+client_secret: "qccwQVFYdzSIFwD86DIYAJeBB-Wg8KBuXO0mWiNN"
+redirect_url: "http://127.0.0.1/"
+scopes:
+    -delivery
+    -history_lite
+    -history
+    -places
+    -profile
+    -ride_widgets
+    -all_trips
+    -request_receipt
+    -request

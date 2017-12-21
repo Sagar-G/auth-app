@@ -40,7 +40,7 @@ from __future__ import unicode_literals
 
 from builtins import input
 
-from yaml import safe_dump
+from pyyaml import safe_dump
 
 from example import utils  # NOQA
 from example.utils import fail_print
